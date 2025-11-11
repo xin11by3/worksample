@@ -11,19 +11,19 @@ Each folder contains one of my selected **work samples**, focusing on algorithmi
 
 | Project | Language | Description |
 |----------|-----------|-------------|
-| [StackRecursion](./StackRecursion.cpp) | C++ | Iterative stack-based algorithm simulating recursion for string generation. |
+| [LinkedList](./LinkedList.cpp) | C++ | Implementation of a singly linked list supporting insertion, deletion, reversal, and rotation operations. |
 | [NQueens Solver](./NQueens.cpp) | C++ | Non-recursive backtracking solver for N-Queens problem using manual stack operations. |
 
 ---
 
 ## 💻 About the Projects
 
-### 🧩 StackRecursion (C++)
-Implements a stack-based approach to simulate recursive string generation.  
-Demonstrates algorithmic design, stack manipulation, and iterative control flow.
+### 🧩 LinkedList (C++)
+Implements a singly linked list supporting insertion, deletion, reversal, duplication, and rotation of text nodes.  
+Demonstrates understanding of dynamic memory allocation, pointer manipulation, and data structure design.
 
-**Key Concepts:** Stack Data Structure · Iterative Logic · Algorithmic Thinking  
-**File:** [`StackRecursion.cpp`](./StackRecursion.cpp)
+**Key Concepts:** Linked List Structure · Memory Management · Pointer Operations  
+**File:** [`LinkedList.cpp`](./LinkedList.cpp)
 
 ---
 
