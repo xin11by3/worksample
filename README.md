@@ -39,7 +39,7 @@ Shows understanding of iterative algorithms and combinatorial logic.
 
 ## 🧠 Skills Demonstrated
 - Algorithm Design & Optimization  
-- Data Structures (Stack, AVL Tree, Linked Lists)  
+- Data Structures (Stack, Linked Lists)  
 - C++ Memory Management  
 
 ---
